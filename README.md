@@ -376,3 +376,5 @@ Feel free to contact me using [email](mailto:mail@cebe.cc) or [twitter](https://
 [open an issue]: https://github.com/cebe/markdown/issues/new
 [license]: https://github.com/cebe/markdown/blob/master/LICENSE
 [UIweb]: https://github.com/krmarien/Gollum 
+ ----
+Tương tự: https://github.com/wolfie/php-markdown/tree/extra
